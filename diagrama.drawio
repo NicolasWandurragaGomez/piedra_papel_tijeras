@@ -1,0 +1,72 @@
+<mxfile host="65bd71144e">
+    <diagram id="6g1XZB4_lu3LPin5y6QZ" name="Página-1">
+        <mxGraphModel dx="1659" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="f2Fvqe4HPAwx6iECzLus-21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="30" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="f2Fvqe4HPAwx6iECzLus-22" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="piedra:1&lt;br&gt;papel:2&lt;br&gt;tijera:3&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="DIGITE SU ELECCION" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="310" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="f2Fvqe4HPAwx6iECzLus-23" style="edgeStyle=none;html=1;exitX=0.383;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="opcion_usuario==1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="349.5" y="455" width="129" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="opcion_maquina==1&lt;br&gt;RTA=EMPATE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="354" y="640" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="opcion_maquina==2&lt;br&gt;RTA=PERDISTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="770" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="RTA=GANASTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="770" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="opcion_usuario==2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="880" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="opcion_maquina==2:&lt;br&gt;RTA=EMPATE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1060" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="opcion_maquina==3:&lt;br&gt;RTA:PERDISTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="1180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="RTA=GANASTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="1180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="opcion_usuario==3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="1300" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="opcion_maquina==3:&lt;br&gt;RTA=EMPATE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-177.5" y="1470" width="135" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="opcion_maquina==1&lt;br&gt;RTA=PERDISTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-330" y="1620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="RTA=GANASTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="1620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="f2Fvqe4HPAwx6iECzLus-19" value="RESULTADOS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="1754" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="f2Fvqe4HPAwx6iECzLus-20" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-170" y="1910" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
